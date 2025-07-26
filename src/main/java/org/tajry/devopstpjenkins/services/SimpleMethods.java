@@ -19,4 +19,9 @@ public class SimpleMethods {
         }
         return new StringBuilder(str).reverse().toString();
     }
+
+
+    public String sayHello(){
+       return "Hello Mahmoud";
+    }
 }
